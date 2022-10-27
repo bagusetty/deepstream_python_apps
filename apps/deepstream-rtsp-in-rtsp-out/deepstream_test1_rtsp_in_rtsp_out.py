@@ -190,6 +190,7 @@ def create_source_bin(index, uri):
 
 
 def main(args):
+    print("new repo testing")
     # Check input arguments
     number_sources = len(args)
 
